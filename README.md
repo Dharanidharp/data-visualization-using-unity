@@ -1,2 +1,2 @@
-# data-visualization-using-unity
+# Thesis project
 In this project numerical data is being used to plot graphs (Individual work)
